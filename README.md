@@ -89,4 +89,5 @@ ________________________________________
 Project Outcome
 This project demonstrates how SQL can be used beyond data retrieval to solve real business problems. By combining sales analytics, inventory management, supplier evaluation, and fulfillment performance monitoring, the solution delivers a comprehensive view of e-commerce operations and supports strategic decision-making through data.
 
-![Uploading image.png…]()
+
+
