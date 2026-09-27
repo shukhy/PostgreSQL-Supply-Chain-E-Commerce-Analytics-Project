@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_cost,selling_price,reorder_point,safety_stock
+PRD_101,QuantumBook Pro 16,Laptops,1200,1799,80,30
+PRD_102,ErgoMechanical Keyboard,Peripherals,65,129,150,50
+PRD_103,Precision Wireless Mouse,Peripherals,30,69,200,60
+PRD_104,AeroSound Noise-Canceling HP,Audio,110,249,120,40
+PRD_105,ViewUltra 34in Curved Monitor,Displays,380,599,70,25
+PRD_106,ThunderBolt OmniDock 12-in-1,Accessories,75,159,180,55
+PRD_107,SmartHome Ambience Light Bar,Smart Living,28,59,100,30
+PRD_108,OmniCharge 100W GaN Adapter,Accessories,22,49,250,75
