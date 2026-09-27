@@ -1,0 +1,5 @@
+supplier_id,supplier_name,country,promised_lead_time_days
+SUP_KOREA,Silicon Display Tech,South Korea,10
+SUP_TAIWAN,Apex Micro-Circuits,Taiwan,8
+SUP_USA_MID,National Cable & Plastics,USA,4
+SUP_GLOBAL,Titan Logistics Sourcing,Germany,14

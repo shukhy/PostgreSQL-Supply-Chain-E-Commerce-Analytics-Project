@@ -1,0 +1,5 @@
+hub_id,hub_name,city,state,operating_cost_hourly
+HUB_CHI,Midwest Central Hub,Chicago,IL,185
+HUB_NYC,Northeast Megalogistics,Secaucus,NJ,220
+HUB_DFW,Southwest Velocity Hub,Fort Worth,TX,165
+HUB_LAX,Pacific Coast Distribution,Ontario,CA,210
